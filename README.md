@@ -1,2 +1,1 @@
-# gustoso.github.io
-gustoso
+# vel-s.github.io/gustoso/
